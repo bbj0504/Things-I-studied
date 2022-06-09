@@ -24,6 +24,6 @@
   
   
   <h2 align="center"> DevOps </h2>
-  
+  - [DevOps란 ]([https://demoversion.tistory.com/13](https://github.com/bbj0504/Things-I-studied/blob/main/DevOps/DevOps%EB%9E%80.md))   <br>
   
   <h2 align="center"> XR </h2>
