@@ -25,6 +25,6 @@
   
   <h2 align="center"> DevOps </h2>
   - [DevOps란 ](https://github.com/bbj0504/Things-I-studied/blob/main/DevOps/DevOps%EB%9E%80.md)   <br>
-  - [클라우드 컴퓨팅이란 ](https://github.com/bbj0504/Things-I-studied/blob/main/DevOps/DevOps%EB%9E%80.md)   <br>
+  - [클라우드 컴퓨팅이란 ](https://github.com/bbj0504/Things-I-studied/blob/main/DevOps/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85.md)   <br>
   
   <h2 align="center"> XR </h2>
