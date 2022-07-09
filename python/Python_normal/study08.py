@@ -51,3 +51,33 @@ print(array_g.tolist())
 
 print()
 print()
+
+# 제네레이터 예제
+print(('%s' % c + str(n) for c in ['A', 'B', 'C', 'D'] for n in range(1,11)))
+
+for s in ('%s' % c + str(n) for c in ['A', 'B', 'C', 'D'] for n in range(1,11)):
+    print(s)
+
+
+print()
+print()
+
+# 리스트 주의
+marks1 = [['~'] * 5 for n in range(5)]
+marks2 = [['~'] * 5] * 5
+
+print(marks1)
+print(marks2)
+
+print()
+
+# 수정
+marks1[0][1] = 'X'
+marks2[0][1] = 'X'
+
+print(marks1)
+print(marks2)
+
+# 증명
+print([id(i) for i in marks1])
+print([id(i) for i in marks2])
